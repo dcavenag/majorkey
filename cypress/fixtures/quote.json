@@ -1,0 +1,4 @@
+{
+  "open_price_fld": "//*[text()='Open']/following::p",
+  "market_cap_fld": "//*[text()='Market Cap']/following::p"
+}

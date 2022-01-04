@@ -1,0 +1,24 @@
+{
+  "name": "majorkey",
+  "version": "1.0.0",
+  "description": "Clone the repo `git clone https://github.com/dcavenag/majorkey.git`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcavenag/majorkey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcavenag/majorkey/issues"
+  },
+  "homepage": "https://github.com/dcavenag/majorkey#readme",
+  "devDependencies": {
+    "cypress": "^9.2.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}

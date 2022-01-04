@@ -1,0 +1,4 @@
+{
+  "accept_btn": "#userAgreementBanner button",
+  "search_fld": "input[placeholder='Quote']"
+}

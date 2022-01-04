@@ -1,0 +1,4 @@
+{
+  "quote_btn": "//*[text()='Quote']",
+  "security_details_btn": "//*[text()='Security Details']"
+}

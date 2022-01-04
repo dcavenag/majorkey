@@ -1,0 +1,4 @@
+{
+  "market_cap_fld": "//*[text()='Market Cap']/following::div[1]",
+  "date_fld": "//*[text()='Market Cap']/following::div[2]"
+}
