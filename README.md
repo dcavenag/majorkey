@@ -12,6 +12,6 @@ The captures taken can be found under `cypress\screenshots` folder
 
 Bug found:
 The `ADBCF` company has not Market Cap under "Quote" tab.
-This is the reason why the test fails for this company is failing.
+This is the reason why the test for this company fails.
 
 ![Issue with ADBCF](https://user-images.githubusercontent.com/43622930/148123347-23a0978a-94d1-4eaa-8244-a18037d3b6f3.png)
