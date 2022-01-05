@@ -4,7 +4,7 @@
   "description": "Clone the repo `git clone https://github.com/dcavenag/majorkey.git`",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cypress:open": "cypress open"
   },
   "repository": {
     "type": "git",

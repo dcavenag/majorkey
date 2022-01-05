@@ -2,9 +2,11 @@
 
 On a terminal clone the repo `git clone https://github.com/dcavenag/majorkey.git`
 
-On a terminal install cypress using npm `npm install cypress --save-dev`
+Go to the cloned folder and install cypress using npm `npm install cypress --save-dev`
 
-Once installed run `./node_modules/.bin/cypress open`
+Once installed, install the dependencies running `npm i -d`
+
+To run cypress run `npm run cypress:open`
 
 Once cypress is open click on the `otcmarkets.js` file, the test should start.
 
