@@ -1,6 +1,6 @@
 # OTC Markets test
 
-On a terminal clone the repo `git clone https://github.com/dcavenag/majorkey.git`
+On a terminal and clone the repo `git clone https://github.com/dcavenag/majorkey.git`
 
 Go to the cloned folder and install cypress using npm `npm install cypress --save-dev`
 
