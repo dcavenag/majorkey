@@ -2,7 +2,9 @@
 
 On a terminal clone the repo `git clone https://github.com/dcavenag/majorkey.git`
 
-On a terminal run `./node_modules/.bin/cypress open`
+On a terminal install cypress using npm `npm install cypress --save-dev`
+
+On a terminal run `npm run cypress:open`
 
 Once cypress is open click on the `otcmarkets.js` file, the test should start.
 
@@ -10,8 +12,10 @@ Once cypress is open click on the `otcmarkets.js` file, the test should start.
 
 The captures taken can be found under `cypress\screenshots` folder
 
+### NOTE
+
 Bug found:
-The `ADBCF` company has not Market Cap under "Quote" tab.
+The `ADBCF` company has not "Market Cap" field under "Quote" tab.
 This is the reason why the test for this company fails.
 
 ![Issue with ADBCF](https://user-images.githubusercontent.com/43622930/148123347-23a0978a-94d1-4eaa-8244-a18037d3b6f3.png)
